@@ -11,15 +11,15 @@ The iOS Health app is an application made by apple to aggregate data from multip
 What are we trying to solve? In the past few weeks we collected a few feedback from users through different channel such as:
 
 * Face to face interview.
-<br>
 * Feedback and article about the app.
-<br>
 * Online survey.
 
 During our investigation staff members highlighted some topics and we used it to create this list of problems to fix:
 
 > Users fund it's hard to read data into charts.
+
 > Users fund it's hard to find daily data into summary.
+
 > Users want more advise about how to manage their life style to improve the KPIs.
 
 ## The Scope.
