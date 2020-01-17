@@ -87,3 +87,6 @@ The category "Get More From Health" will provide article to help users to have b
 <center>
     <img src="https://user-images.githubusercontent.com/29161010/72607562-e445cf00-3918-11ea-9dc1-6e7f06e8f32d.gif" alt="UI-1">
 </center>
+
+## Link to the interface
+<a href="https://louisloio.github.io/iOS_Health_app/index.html">You can see the full page here</a>
