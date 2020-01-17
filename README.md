@@ -1,14 +1,14 @@
 
 # Revamp of iOS Health app.
 
-The iOS Health app is an application made by apple to aggregate data from multiple connected objects. Into this article I will explain what is my process to improve the experience of an app. We will see this points:
+The iOS Health app is an application made by apple to aggregate data from multiple connected objects. Into this article I will explain what is my process to improve the experience on the app. We will see this points:
 
 * Identify the problem
 * Define the scope of the problem
 * The solution
 
 ## Identify the problem.
-What are we trying to solve? In the past few weeks we collected a few feedback from users through different channel such as:
+What are we trying to solve? In the past few weeks we collected a few feedback from users through different channels such as:
 
 * Face to face interview.
 * Feedback and article about the app.
