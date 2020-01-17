@@ -1,6 +1,6 @@
-<center>
+<a href="https://louisloio.github.io/iOS_Health_app/index.html">
     <img src="media/top_article.png" alt="UI-1">
-</center>
+</a>
 
 # Revamp of iOS Health app.
 
