@@ -1,3 +1,6 @@
+<center>
+    <img src="media/top_article.png" alt="UI-1">
+</center>
 
 # Revamp of iOS Health app.
 
